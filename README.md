@@ -57,3 +57,6 @@ Create GitHub Account ได้ที่ [Join GitHub](https://github.com/)
 
 **sd, _ := base64.StdEncoding.DecodeString(secret)**
 
+# Answer
+
+The answer is : **Join:us:at:LINE:MAN:Wongnai**
