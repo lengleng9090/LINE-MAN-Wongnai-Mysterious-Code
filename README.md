@@ -59,4 +59,4 @@ Create GitHub Account ได้ที่ [Join GitHub](https://github.com/)
 
 # Answer
 
-The answer is : **Join:us:at:LINE:MAN:Wongnai**
+The answer is : Join:us:at:LINE:MAN:Wongnai
